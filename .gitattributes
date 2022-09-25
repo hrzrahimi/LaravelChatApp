@@ -1,10 +1,10 @@
 * text=auto
 
 *.blade.php diff=html
+*.php diff=php
 *.css linguist-detectable=false
 *.html diff=html
 *.md diff=markdown
-*.php diff=php
 *.html linguist-detectable=false
 *.JavaScript linguist-detectable=false
 
